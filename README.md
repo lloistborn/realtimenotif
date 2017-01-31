@@ -50,4 +50,4 @@ Testing Functionality
 ```
 $ python manage.py createsuperuser
 ```
-* Login into different browser to /realtime using same account and send notification
+* Login into different browser to `/realtime` using same account and **send notification**
